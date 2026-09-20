@@ -1,0 +1,18 @@
+See the full list of 4125 unique .md URLs extracted from Decisions documentation.
+
+(The complete file is 316KB - uploading summary and instructions instead due to size limits of the push tool for very large content in one call.
+
+Full list is available in the local artifacts from the extraction process.
+
+To get all files, download the tar.gz from the conversation artifacts and extract it locally, then push to this repo using git.)
+
+Categories:
+- docs: 858
+- step-library: 1494
+- v9: 864
+- v99: 103
+- projects: 331
+- processmaker: 435
+- process-mining: 38
+
+Total unique: 4123 successfully downloaded + 2 failed.
